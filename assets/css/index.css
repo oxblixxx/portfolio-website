@@ -48,3 +48,13 @@ a {
     color: black;
   }
 }
+
+
+img{
+  width: 45em;
+  height: 35em;
+}
+
+.tools {
+  color: rgb(58, 225, 16);
+}
